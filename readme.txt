@@ -78,6 +78,6 @@
          /images/* ：放置页面图片文件
          /productImages/* ：放置产品图片
 
-
+    5) nothing	
 
 
